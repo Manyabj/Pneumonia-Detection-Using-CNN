@@ -10,7 +10,7 @@ The main objective of this project is to develop a deep learning model, specific
 - [Dependencies](#dependencies)
 - [Dataset](#dataset)
 - [Results](#results)
-- [Acknowledgment](#acknowledgement)
+- [Acknowledgement](#acknowledgement)
 
 ## Project Description
 
@@ -48,4 +48,4 @@ The dataset used for this project is the [Chest X-Ray Images (Pneumonia)](https:
 | **Test Data**         | 582 images  |
 
 ## Acknowledgement
-This project is done under guidance of 
+This project is done under guidance of [Dr Agughasi Victor Ikechukwu](Victor-Ikechukwu) and Prof.Shashanka H P
